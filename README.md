@@ -1,6 +1,6 @@
 # Diffusion Model for Image Generation-SDXL Pipeline Implementation on CPU.
 
-This repository contains a **CPU-only implementation** of the Stable Diffusion XL (SDXL) pipeline using the 🤗 Hugging Face **Diffusers** library.  
+This repository contains a **CPU-only implementation** of the Stable Diffusion XL (SDXL) pipeline using the Hugging Face **Diffusers** library.  
 It is designed for environments without CUDA support, making it accessible on systems that only have CPU resources.
 
 ---
