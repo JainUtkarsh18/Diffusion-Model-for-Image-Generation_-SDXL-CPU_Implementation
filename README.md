@@ -3,6 +3,15 @@
 This repository contains a **CPU-only implementation** of the Stable Diffusion XL (SDXL) pipeline using the Hugging Face **Diffusers** library.  
 It is designed for environments without CUDA support, making it accessible on systems that only have CPU resources.
 
+## Table of Contents     
+        
+- [Installation](#installation)       
+- [Usage](#usage)
+- [Example Prompt](#ExamplePrompt)
+- [Features](#Features)
+- [Output](#Output)
+- [License](#license) 
+
 ---
 
 ## Installation
@@ -48,7 +57,7 @@ Optimized for CPU: Enables VAE slicing & tiling for efficient memory usage.
 
 Automatic Image Saving: Output images are saved in ```sdxl_out_cpu/```.
 
-## Output
+## Features
 
 Generated images will be stored with filenames like:
 
