@@ -12,7 +12,7 @@ It is designed for environments without CUDA support, making it accessible on sy
 - [Output](#Output)
 - [License](#license) 
 
----
+--- 
 
 ## Installation
 
