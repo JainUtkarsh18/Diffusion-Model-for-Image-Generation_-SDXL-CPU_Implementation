@@ -30,7 +30,7 @@ pip install torch==2.4.0 torchvision==0.19.0 torchaudio==2.4.0
 
 ## Install required libraries
 ```bash
-pip install diffusers==0.30.2 transformers==4.43.3 accelerate==0.33.0 \
+pip install diffusers==0.30.2 transformers==4.43.3 accelerate==0.33.0 \ 
 safetensors==0.4.3 pillow==10.4.0 huggingface-hub==0.34.1
 ```
 
