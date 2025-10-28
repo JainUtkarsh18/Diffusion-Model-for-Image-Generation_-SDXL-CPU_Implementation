@@ -4,7 +4,7 @@ This repository contains a **CPU-only implementation** of the Stable Diffusion X
 It is designed for environments without CUDA support, making it accessible on systems that only have CPU resources.
 
 ## Table of Contents      
-        
+         
 - [Installation](#installation)       
 - [Usage](#usage)
 - [Example Prompt](#ExamplePrompt)
