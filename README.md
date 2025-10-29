@@ -13,7 +13,7 @@ It is designed for environments without CUDA support, making it accessible on sy
 - [License](#license) 
 
 --- 
-
+ 
 ## Installation
 
 Run the following commands to set up the environment:
