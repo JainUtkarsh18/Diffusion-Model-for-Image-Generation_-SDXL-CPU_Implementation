@@ -20,7 +20,7 @@ Run the following commands to set up the environment:
 
 **Remove conflicting libraries**
 ```bash
-pip uninstall -y xformers torch torchvision torchaudio peft || true
+pip uninstall -y xformers torch torchvision torchaudio peft
 ```
 
 ## Install PyTorch (CPU version)
