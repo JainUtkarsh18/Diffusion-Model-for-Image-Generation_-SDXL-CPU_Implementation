@@ -9,7 +9,7 @@
   safetensors==0.4.3 pillow==10.4.0 huggingface-hub==0.34.1
 
 import os, time
-print("✅ Installed. Restarting runtime…")
+print("Installed. Restarting runtime…")
 time.sleep(0.8)
 os.kill(os.getpid(), 9)
 
