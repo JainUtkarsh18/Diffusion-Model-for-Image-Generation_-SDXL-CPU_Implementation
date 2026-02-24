@@ -11,7 +11,7 @@ It is designed for environments without CUDA support, making it accessible on sy
 - [Features](#Features)
 - [Output](#Output)
 - [License](#license) 
-
+ 
 --- 
  
 ## Installation
