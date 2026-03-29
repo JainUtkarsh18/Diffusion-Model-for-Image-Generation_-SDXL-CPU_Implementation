@@ -5,7 +5,7 @@ It is designed for environments without CUDA support, making it accessible on sy
  
 ## Table of Contents       
              
-- [Installation](#installation) 
+- [Installation](#installation)  
 - [Usage](#usage)
 - [Example Prompt](#ExamplePrompt)    
 - [Features](#Features)
