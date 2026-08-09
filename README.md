@@ -2,6 +2,8 @@
 
 This repository contains a **CPU-only implementation** of the Stable Diffusion XL (SDXL) pipeline using the Hugging Face **Diffusers** library.  
 It is designed for environments without CUDA support, making it accessible on systems that only have CPU resources.
+
+To read more about my the SDXL working, functionality and my views on it, do check out my Medium Blog "[SDXL Is Technically Impressive, but Its Real Bottleneck Is the Data!](https://medium.com/@jainutkarsh18/sdxl-is-technically-impressive-but-its-real-bottleneck-is-the-data-3b2922df4c9e?sharedUserId=jainutkarsh18)"
   
 ## Table of Contents       
              
